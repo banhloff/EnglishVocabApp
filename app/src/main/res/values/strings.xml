@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">EnglishVocabApp</string>
+    <string name="placeholder_text">Content Placeholder Content Placeholder Content Placeholder Content Placeholder</string>
+    <string-array name="quiz_level">
+        <item>Pick Quiz Level</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="quiz_length">
+        <item>Pick Quiz Length</item>
+        <item>5</item>
+        <item>10</item>
+        <item>20</item>
+    </string-array>
+</resources>
